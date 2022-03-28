@@ -28,7 +28,7 @@ h1 {
     margin: 0;
 }
 
-.site-title h1{
+#titleText{
     font-family: 'Varela Round', sans-serif;
     letter-spacing: 2px;
     color:white;}
@@ -64,7 +64,7 @@ p{
     text-align:center;
 }
 
-.subtitle {
+#subtitleText {
     font-weight: 700;
     color: #ffffff;
     font-size: 1rem;
